@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ------------------------- Bot Token -------------------------
-TOKEN = "8005427686:AAEcDtpI_nl1y6iB3D0z7D_E7Rac8PlPxfY"
+TOKEN = "your-token-goes-here"
 
 # ------------------------- Help Message -------------------------
 HELP_COMMAND_RESPONSE = """
